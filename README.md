@@ -1,4 +1,4 @@
-# Mental_Health
+# Mental Health
 Mental health prediction using ML &amp; ANN
 
 **Dataset link** =  /kaggle/input/mental-health/Mental Health Dataset.csv
